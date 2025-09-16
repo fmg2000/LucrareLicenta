@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ShowFragment">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textDate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:background="@color/black_menu"
+                android:text="March"
+                android:textSize="20dp"
+                android:textColor="@color/blue_backound"
+                />
+            <com.google.android.material.button.MaterialButtonToggleGroup
+                android:id="@+id/toggleButtonGroup"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:background="@color/black_menu"
+                app:singleSelection="true">
+
+                <Button
+                    android:id="@+id/selectYear"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:drawableBottom="@android:drawable/divider_horizontal_textfield"
+                    android:drawableTint="@color/toggle_button_main"
+                    android:drawableTintMode="add"
+                    android:text="Y"
+                    android:textSize="11dp"
+                    app:cornerRadius="0dp"
+                    android:backgroundTint="@color/toggle_buttton_main_backround"
+                    android:textColor="@color/toggle_button_text"
+                    />
+
+                <Button
+                    android:id="@+id/selectMonth"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:drawableBottom="@android:drawable/divider_horizontal_textfield"
+                    android:drawableTint="@color/toggle_button_main"
+                    android:drawableTintMode="add"
+                    android:text="M"
+                    android:textSize="11dp"
+                    app:cornerRadius="0dp"
+                    android:backgroundTint="@color/toggle_buttton_main_backround"
+                    android:textColor="@color/toggle_button_text"/>
+                <Button
+                    android:id="@+id/selectDate"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:drawableBottom="@android:drawable/divider_horizontal_textfield"
+                    android:drawableTint="@color/toggle_button_main"
+                    android:drawableTintMode="add"
+                    android:text="D"
+                    android:textSize="11dp"
+                    app:cornerRadius="0dp"
+                    android:backgroundTint="@color/toggle_buttton_main_backround"
+                    android:textColor="@color/toggle_button_text"/>
+                <Button
+                    android:id="@+id/selectOther"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:drawableBottom="@android:drawable/divider_horizontal_textfield"
+                    android:drawableTint="@color/toggle_button_main"
+                    android:drawableTintMode="add"
+                    android:text="+"
+                    android:textSize="15dp"
+                    app:cornerRadius="0dp"
+                    android:backgroundTint="@color/toggle_buttton_main_backround"
+                    android:textColor="@color/toggle_button_text"/>
+
+            </com.google.android.material.button.MaterialButtonToggleGroup>
+
+            <TextView
+                android:id="@+id/TotalSum"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="center"
+                android:text="Total: 23.06"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                />
+
+            <com.github.mikephil.charting.charts.LineChart
+                android:id="@+id/lineChart"
+                android:layout_marginTop="10dp"
+                android:layout_marginHorizontal="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:background="@drawable/chart_border"/>
+
+
+            <!-- Lista pentru "Top 5" -->
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Top 5 receipts:"
+                android:textStyle="italic|bold"
+                android:gravity="center"
+                android:layout_marginTop="10dp"
+                android:textSize="17sp"/>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/listTop5Expenses"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/chart_border"
+                tools:listitem="@layout/item_listview_design" />
+        </LinearLayout>
+
+</LinearLayout>

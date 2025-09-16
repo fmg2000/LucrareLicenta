@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.OCRApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/black_menu</item>
+        <item name="android:colorBackground">@color/white_backround</item>
+
+    </style>
+
+    <style name="Theme.OCRApp" parent="Base.Theme.OCRApp">
+        <item name="actionBarStyle">@style/CustomActionBar</item>
+        <item name="toolbarStyle">@style/CustomToolbar</item>
+    </style>
+
+    <style name="CustomActionBar" parent="Widget.MaterialComponents.Toolbar.Primary">
+    </style>
+
+    <style name="CustomToolbar" parent="Widget.MaterialComponents.Toolbar.Primary">
+        <!-- culoarea de fundal a Toolbar -->
+        <item name="titleTextColor">@color/black_menu</item> <!-- culoarea textului în Toolbar -->
+
+    </style>
+</resources>

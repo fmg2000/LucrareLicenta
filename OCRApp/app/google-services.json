@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934303235390",
+    "project_id": "applicenta-84bad",
+    "storage_bucket": "applicenta-84bad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934303235390:android:a3cfdf26df1a38e28e806f",
+        "android_client_info": {
+          "package_name": "com.example.ocrapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq_nnmKpOBz2OTYVXCpJBplYSqpKrFwqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
