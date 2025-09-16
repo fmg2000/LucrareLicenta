@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\drawable_chart_border.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\drawable\\chart_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\drawable_ic_list.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\drawable\\ic_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\drawable_ic_scan.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\drawable\\ic_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\layout_fragment_read.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\layout\\fragment_read.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\layout_fragment_picture.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\layout\\fragment_picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\drawable_test1.jpeg.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\drawable\\test1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\menu_bottom_menu_navigation.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\menu\\bottom_menu_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\layout_fragment_list.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\layout\\fragment_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\color_toggle_button.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\color\\toggle_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\layout_dialog_month_year_picker.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\layout\\dialog_month_year_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\menu_menu_top_bar.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\menu\\menu_top_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\layout_dialog_year_picker.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\layout\\dialog_year_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\color_toggle_button_main.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\color\\toggle_button_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\layout_item_listview_design.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\layout\\item_listview_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\layout_fragment_show.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\layout\\fragment_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\drawable_ic_arrow.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\drawable\\ic_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\layout_fragment_add.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\layout\\fragment_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\drawable_ic_line.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\drawable\\ic_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\drawable_background.jpg.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\drawable\\background.jpg"
+    },
+    {
+        "merged": "com.example.ocrapp-debug-54:/layout_activity_login.xml.flat",
+        "source": "com.example.ocrapp-main-56:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\layout_activity_reload.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\layout\\activity_reload.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\layout_item_recycleview_design.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\layout\\item_recycleview_design.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\drawable_ic_calendar.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\drawable\\ic_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\drawable_image_border.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\drawable\\image_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\drawable_button_back_arrow.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\drawable\\button_back_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\color_toggle_buttton_main_backround.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\color\\toggle_buttton_main_backround.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\drawable_ic_password_logo.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\drawable\\ic_password_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\color_toggle_button_text.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\color\\toggle_button_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-debug-54:\\drawable_list_border.xml.flat",
+        "source": "C:\\Users\\Mihai\\.gradle\\daemon\\8.4\\com.example.ocrapp-main-56:\\drawable\\list_border.xml"
+    }
+]

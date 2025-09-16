@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="black_menu">#3F3F44</color>
+    <color name="blue_backound">#c3ecec</color>
+    <color name="color1">#6E8C8E</color>
+    <color name="color2">#C1EAEA</color>
+    <color name="color3">#CAD6CB</color>
+    <color name="color4">#B1B2B3</color>
+    <color name="color5">#BBC3C4</color>
+    <color name="purple">#6200EE</color>
+    <color name="red">#E91E1E</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_backround">#f5f5f5</color>
+    <dimen name="fragment_horizontal_margin">16dp</dimen>
+    <dimen name="fragment_vertical_margin">16dp</dimen>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="app_name">OCRApp</string>
+    <string name="gcm_defaultSenderId" translatable="false">934303235390</string>
+    <string name="google_api_key" translatable="false">AIzaSyAq_nnmKpOBz2OTYVXCpJBplYSqpKrFwqE</string>
+    <string name="google_app_id" translatable="false">1:934303235390:android:a3cfdf26df1a38e28e806f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAq_nnmKpOBz2OTYVXCpJBplYSqpKrFwqE</string>
+    <string name="google_storage_bucket" translatable="false">applicenta-84bad.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="project_id" translatable="false">applicenta-84bad</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="welcome">"Welcome!"</string>
+    <style name="Base.Theme.OCRApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/black_menu</item>
+        <item name="android:colorBackground">@color/white_backround</item>
+
+    </style>
+    <style name="CustomActionBar" parent="Widget.MaterialComponents.Toolbar.Primary">
+    </style>
+    <style name="CustomToolbar" parent="Widget.MaterialComponents.Toolbar.Primary">
+        
+        <item name="titleTextColor">@color/black_menu</item> 
+
+    </style>
+    <style name="Theme.OCRApp" parent="Base.Theme.OCRApp">
+        <item name="actionBarStyle">@style/CustomActionBar</item>
+        <item name="toolbarStyle">@style/CustomToolbar</item>
+    </style>
+</resources>
